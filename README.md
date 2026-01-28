@@ -11,3 +11,6 @@
 2. [工厂方法模式](factory-pattern/factory-pattern.md#工厂方法模式)
 3. [抽象工厂模式](factory-pattern/factory-pattern.md#抽象工厂模式)
 
+## 单例模式
+
+1. [单态模式](singleton/singleton.md#单态模式)
