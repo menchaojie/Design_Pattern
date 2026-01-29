@@ -18,3 +18,7 @@
 3. [ new 方法实现单例模式](singleton/singleton.md#new-方法单例模式)
 4. [装饰器实现单例模式](singleton/singleton.md#装饰器单例模式)
 5. [元类实现单例模式](singleton/singleton.md#元类单例模式)
+
+## 观察者模式
+
+1. [观察者模式](observer/observer.md#观察者模式)
