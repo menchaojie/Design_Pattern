@@ -5,6 +5,8 @@
 
 [模式设计(菜鸟)](https://www.runoob.com/python-design-pattern/python-factory-pattern.html)
 
+[book python design pattern](https://github.com/Vondark/books/blob/master/docs/src/Python/Mastering-Python-Design-Patterns.pdf)
+
 ## 工厂模式
 
 1. [简单工厂模式](factory-pattern/factory-pattern.md#简单工厂模式)
