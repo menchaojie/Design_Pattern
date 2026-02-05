@@ -10,7 +10,7 @@
 
 
 ### 书籍
-[all books](https://freecomputerbooks.com/)
+[computer books](https://freecomputerbooks.com/)
 
 [Mastering Python Design Patterns v2](https://github.com/Vondark/books/blob/master/docs/src/Python/Mastering-Python-Design-Patterns.pdf)
 
@@ -34,3 +34,5 @@
 ## 观察者模式
 
 1. [观察者模式](observer/observer.md#观察者模式)
+
+## 策略模式
