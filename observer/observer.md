@@ -2,6 +2,11 @@
 
 设计核心：主题(subject)持有观察者(observer)对象引用， 当主题状态改变时， 会通知所有观察者对象。
 
+引用一句话：
+
+The subject notifies the subscribers of any state changes, typically by calling one of their methods.
+
+
 ### property 装饰器
 
 property 装饰器可以将方法转换为属性， 可以像属性一样访问和赋值。
