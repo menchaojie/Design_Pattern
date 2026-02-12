@@ -2,9 +2,15 @@
 
 设计核心：主题(subject)持有观察者(observer)对象引用， 当主题状态改变时， 会通知所有观察者对象。
 
-引用一句话：
+引用：
 
 The subject notifies the subscribers of any state changes, typically by calling one of their methods.
+
+也就是说：
+
+Every time the subject is updated, the subscribers receive a notification about the update.
+
+
 
 
 ### property 装饰器
